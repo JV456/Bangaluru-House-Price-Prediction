@@ -29,5 +29,10 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 So, The best Scores are achieved by LinearRegression which is 0.84
 
 
+## Testing of the Model 
+
+![Screenshot 2023-06-17 002005](https://github.com/JV456/Bangaluru-House-Price-Prediction/assets/99525324/e290849e-5a60-4c34-bbf8-4746d77624e4)
+
+
 
 
