@@ -1,7 +1,7 @@
 # BANGALURU HOUSE PRICE PREDICTION 
 
 This project mains on predicting house prices in Bangalore, India using machine learning. The aim is to build a model that can estimate the prices of houses based on various factors such as tatol_sqft, bath, BHK, price and locations.
-Predicting Banglore property prices accurately may give useful information to purchasers, sellers, and real estate agents, to make informed decisions.
+Predicting Banglore property prices accurately may give useful information to purchasers, sellers, and real estate agents, to make informed decisions
 
 ## Dataset 
 
